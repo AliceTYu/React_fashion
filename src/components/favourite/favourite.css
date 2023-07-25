@@ -1,0 +1,15 @@
+.favourite{
+    padding-top: 190px;
+    padding-bottom: 200px;
+}
+
+.favourite__header{
+    position: relative;
+
+    margin-bottom: 118px;
+}
+
+.favourite__card{
+    display: flex;
+    column-gap: 48px;
+}

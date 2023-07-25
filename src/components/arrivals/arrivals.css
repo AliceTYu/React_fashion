@@ -1,0 +1,17 @@
+.arrivals {
+    padding-top: 120px;
+    padding-bottom: 143px;
+}
+
+.arrivals__header{
+    margin-bottom: 100px;
+
+    text-transform: uppercase;
+    position: relative;
+}
+
+.arrivals__cards{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}
